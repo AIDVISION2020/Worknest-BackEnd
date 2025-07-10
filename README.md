@@ -36,7 +36,7 @@
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/WorkNest-Backend.git
+git clone https://github.com/MithunPranavaR/Worknest-BackEnd.git
 cd WorkNest-Backend
 ### 2️⃣ Set Up Virtual Environment
 python -m venv env
