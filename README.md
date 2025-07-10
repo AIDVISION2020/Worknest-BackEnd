@@ -53,15 +53,3 @@ python manage.py createsuperuser
 
 ### 6️⃣ Start the Server
 python manage.py runserver
-
-
-
----
-
-Let me know if you want help adding:
-- Screenshots
-- API schema docs (with Swagger or DRF docs)
-- Live link sections (if hosted)
-- Contribution guidelines
-
-Just drop it and I’ll expand the README even more 💪
