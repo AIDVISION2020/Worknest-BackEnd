@@ -115,7 +115,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'worknestdb',
         'USER': 'worknestuser',
-        'PASSWORD': 'strongpassword123',
+        'PASSWORD': '****',
         'HOST': 'localhost',
         'PORT': '5432',
     }
